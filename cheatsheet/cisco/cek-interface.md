@@ -17,6 +17,13 @@ const [age, setAge] = useState(50);
 const [name, setName] = useState("Taylor");
 ```
 
+new line edit
+
+```ts
+const [age, setAge] = useState<number>(50);
+const [name, setName] = useState<string>("Taylor");
+```
+
 
 ```shell
 const [age, setAge] = useState(50);
