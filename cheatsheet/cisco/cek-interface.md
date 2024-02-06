@@ -1,3 +1,8 @@
+---
+title: Cek interface on cisco device
+desc: some long description
+---
+
 # Cek Interface Cisco
 
 show interface gi0/0
@@ -13,7 +18,7 @@ const [name, setName] = useState("Taylor");
 ```
 
 
-```shell /age/#v /name/#v /setAge/#s /setName/#s /50/#i /"Taylor"/#i
+```shell
 const [age, setAge] = useState(50);
 const [name, setName] = useState("Taylor");
 ```
